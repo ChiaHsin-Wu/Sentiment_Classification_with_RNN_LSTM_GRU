@@ -1,4 +1,4 @@
-# Deep Learning Project
+# Sentiment Classification with RNN, LSTM and GRU
 ## 專案簡介
 本專案針對美妝保養品產業，利用 Kaggle 上 Sephora 產品與評論資料，透過深度學習模型預測新品上市前可能引發的使用者回饋類型。目標在於幫助品牌方在產品開發階段提早掌握潛在優缺點，降低上市風險並優化行銷策略。
 
